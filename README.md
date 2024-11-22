@@ -4,23 +4,21 @@
 ### **Linkedin Profile** [Link](https://www.linkedin.com/in/mvenkatavaraprasad)
 
 # Project Overview
-This project is designed to optimize various aspects of AtliQ Hardwares business which includes Finance, Sales, Marketing Supply Chain and Executive Management.
+This project is designed to optimize various aspects of AtliQ Electric Vehicle Sales business which includes Sales by Makers, Sales by State, Compound Annual Growth Rate, Penetration Rate, Projected Sales, Revenue
 
-![Home](https://github.com/user-attachments/assets/653c681d-91b3-4540-9755-08a8c7be6888)
-
-
-### **Finance View: Financial planning and Expense Management**
-
-Implemented a financial forecasting model, resulting in more accurate budget predictions. Created benchmarking against last year and target goals for budgeting.
-
-![Finance view](https://github.com/user-attachments/assets/e2cc052d-7d3c-42c1-a109-f1f817879dc6)
+![Home](https://github.com/prasadmvv1994/AtliQ-Electric-Vehicle-Analysis/blob/main/EV%201.png)
 
 
-### **Sales View: Increase sales revenue with Customer and Product Performance**
+### **Sales by Makers**
 
-Created customer and product overall sales performance report. Identified sales trends and track KPIs.
 
-![Sales View](https://github.com/user-attachments/assets/219f0e85-ebe8-4722-8a50-79fd33f820a8)
+![Sales by Makers](https://github.com/prasadmvv1994/AtliQ-Electric-Vehicle-Analysis/blob/main/EV%202.png)
+
+
+### **Sales by State**
+
+
+![Sales by State](https://github.com/prasadmvv1994/AtliQ-Electric-Vehicle-Analysis/blob/main/EV%203.png)
 
 
 # Skills
@@ -60,22 +58,15 @@ Created customer and product overall sales performance report. Identified sales 
 
 ### **Business Terminology**
 
-  1.Net sales and Net Invoice Sales
+  1.Total EV Sales
+
+  2.Total TV Sales
   
-  2.Gross Margin and Gross Margin %
+  3.Compound Annual Growth Rate(CAGR)
   
-  3.Pre invoice deductions and Post invoice deductions
+  4.Penetration Rate
   
-  4.COGS(cost of goods sold)
+  5.Projected Sales
   
-  5.Net Profit and Net Profit %
+  6.Total Revenue
   
-  6.Absolute Error
-  
-  7.Variance and Targets
-  
-  8.YTG (year to go)
-  
-  9.YTD ( year to date)
-  
-  10.Direct ,retailer, customer , consumer and distributors
